@@ -1,0 +1,9 @@
+4. Sets Hello, this is a data science log.
+with open("data.txt", "r") as file:
+    content = file.read()
+    print(content)
+Hello, this is a data science log.
+Hello, this is a data sciencgtggggggggggggggggge log.
+Hello, this is a data sciencgtggggggggggggggggge log.
+Hello, this is a data sciencgtggggggggggggggggge log.
+Hello, this is a data sciencgtggggggggggggggggge log.
